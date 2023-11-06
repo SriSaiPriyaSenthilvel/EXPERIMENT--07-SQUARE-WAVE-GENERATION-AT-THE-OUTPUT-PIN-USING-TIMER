@@ -121,7 +121,7 @@ MX_TIM2_Init();
 
 ![275533060-d2aed7a2-f536-4c5c-bbd4-4dad562a01cc](https://github.com/SriSaiPriyaSenthilvel/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119475702/df9dc6fa-3bfc-4259-a2cb-137db2c479d0)
 
-![WhatsApp Image 2023-10-17 at 18 22 37_71d6be9f](https://github.com/SriSaiPriyaSenthilvel/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119475702/07612589-80ad-4f7d-a68f-582e7d2be474)
+![image](https://github.com/SriSaiPriyaSenthilvel/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119475702/47e13ee6-3917-4f56-a351-0c9ee13cf145)
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
